@@ -1,0 +1,36 @@
+Welcome to Applied Machine Learning !
+
+Dear Participant,
+You will learn models and methods used in machine learning and apply them to real-world situations ranging from identifying trending news topics to building recommendation engines, ranking sports teams, and plotting the path of movie zombies.
+
+You will begin this course with 12 weeks of Python for Data Science, a course designed by data science practitioners to build your foundational skills in Python for machine learning. Once you have mastered the Python essentials, you will move on to Applied Machine Learning where you will learn how to build models for machine learning.
+
+The first half of the Applied Machine Learning will focus on supervised learning techniques for regression and classification. In supervised learning, we have inputs and try to predict corresponding outputs. We will discuss several fundamental methods to do these tasks and algorithms for their optimization. The course is designed to help you develop a mathematical understanding of the algorithms, and then apply them using data sets provided in the assignments.
+
+In the second half of Applied Machine Learning, we shift to unsupervised learning techniques. In unsupervised learning, the end goal is less clear-cut than predicting an output based on a corresponding input. We will cover three fundamental problems of unsupervised learning: data clustering, matrix factorization, and sequential models for order-dependent data. Some applications of these models include recommendation systems and topic modeling.
+
+At the end of this program, you will be able to:
+
+Use intermediate Python skills, including functions and packages, to analyze various types of data.
+Use a variety of Python communities and data repositories to find answers and solve problems.
+Apply fundamental statistics and probability concepts to analyze and solve problems using Python.
+Apply linear algebra, including Bayesian linear regressions, to create algorithms to analyse and predict data.
+Apply machine learning models and methods to real-world situations.
+Machine learning is a basis for some of the most exciting careers in data analysis today. We wish you the very best and look forward to hearing about your experiences in your learning journey.
+
+Helpful Reading
+
+If you would like to refresh your knowledge of linear algebra, multivariate calculus and Python, here are some helpful external reading resources.
+
+1. Linear Algebra: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ (Links to an external site.)Links to an external site.
+
+2. Multivariate Calculus: https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/ (Links to an external site.)Links to an external site.
+
+3. Basic Probability Theory and Statistics (Random variables, distributions, joint distributions, marginal distributions, conditional distributions, independence, bayes rule, chain rule, probability mass function, probability density function, expectation, variance, maximum likelihood estimators): Probability and Statistics (4th Edition) by Morris H. DeGroot and Mark J. Schervish (Links to an external site.)
+
+4. Introductory Programming in Python: https://jakevdp.github.io/PythonDataScienceHandbook/ (Links to an external site.)Links to an external site.
+
+Below are the two most popular introductory textbooks used by machine learning community.
+
+T. Hastie, R. Tibshirani and J. Friedman, The Elements of Statistical Learning, Second Edition, Springer (Links to an external site.)
+C. Bishop, Pattern Recognition and Machine Learning, Springer
